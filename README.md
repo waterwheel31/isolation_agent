@@ -22,7 +22,7 @@ Finally, agents have a fixed time limit (150 milliseconds by default) to search 
 ## The algorithm 
 
   - Used a simple heuristic the score is evaluated as  sum(distances from player's available spaces to the position of the opponent) / sum (distances from opponent's available spaces to the position of the player )
-  - This wins against MINIMAX algorithm with more than 60% of matches 
+  - This wins against MINIMAX algorithm with more than 60% of probability
 
 ## How to Run? 
 
